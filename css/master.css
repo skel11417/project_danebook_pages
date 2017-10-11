@@ -15,3 +15,7 @@
 .fuscia {
   background-color: #93B874;
 }
+
+.profile-image {
+  position: absolute;
+}
