@@ -17,5 +17,11 @@
 }
 
 .profile-image {
-  position: absolute;
+  position: relative;
+  bottom: 120px;
+}
+
+#profile-nav {
+  height: 50px;
+  background-color: yellow;
 }
